@@ -1,0 +1,245 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1",
+            "request": "launch",
+            "mainClass": "competec.aula0_tipos_primitivos.Exercicio1",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio2",
+            "request": "launch",
+            "mainClass": "competec.aula0_tipos_primitivos.Exercicio2",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1Gabarito",
+            "request": "launch",
+            "mainClass": "competec.aula0_tipos_primitivos_gabarito.Exercicio1Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio2Gabarito",
+            "request": "launch",
+            "mainClass": "competec.aula0_tipos_primitivos_gabarito.Exercicio2Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Carnaval",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes.Desafios_Extras.Carnaval",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Conversão_Na_Cozinha",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes.Desafios_Extras.Conversão_Na_Cozinha",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "programadora_Daltonica",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes.Desafios_Extras.programadora_Daltonica",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1(1)",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes.Exercicio1",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio2(1)",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes.Exercicio2",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio3",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes.Exercicio3",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio4",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes.Exercicio4",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio5",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes.Exercicio5",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1Gabarito(1)",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes_gabarito.Exercicio1Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio2Gabarito(1)",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes_gabarito.Exercicio2Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio3Gabarito",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes_gabarito.Exercicio3Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio4Gabarito",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes_gabarito.Exercicio4Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio5Gabarito",
+            "request": "launch",
+            "mainClass": "competec.aula1_ramificacoes_gabarito.Exercicio5Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio0",
+            "request": "launch",
+            "mainClass": "competec.aula2_loops.Desafio0",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio11",
+            "request": "launch",
+            "mainClass": "competec.aula2_loops.Desafio11",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio12",
+            "request": "launch",
+            "mainClass": "competec.aula2_loops.Desafio12",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio21",
+            "request": "launch",
+            "mainClass": "competec.aula2_loops.Desafio21",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio22",
+            "request": "launch",
+            "mainClass": "competec.aula2_loops.Desafio22",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio0Gabarito",
+            "request": "launch",
+            "mainClass": "competec.aula2_loops_gabarito.Desafio0Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio11Gabarito",
+            "request": "launch",
+            "mainClass": "competec.aula2_loops_gabarito.Desafio11Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio12Gabarito",
+            "request": "launch",
+            "mainClass": "competec.aula2_loops_gabarito.Desafio12Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio21Gabarito",
+            "request": "launch",
+            "mainClass": "competec.aula2_loops_gabarito.Desafio21Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio22Gabarito",
+            "request": "launch",
+            "mainClass": "competec.aula2_loops_gabarito.Desafio22Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio1MultiplosDe10",
+            "request": "launch",
+            "mainClass": "competec.aula3_arranjos.Desafio1MultiplosDe10",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio2TresArranjos",
+            "request": "launch",
+            "mainClass": "competec.aula3_arranjos.Desafio2TresArranjos",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio3EntradaSaidaArranjos",
+            "request": "launch",
+            "mainClass": "competec.aula3_arranjos.Desafio3EntradaSaidaArranjos",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio1MultiplosDe10Gabarito",
+            "request": "launch",
+            "mainClass": "competec.aula3_arranjos_gabarito.Desafio1MultiplosDe10Gabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio2TresArranjosGabarito",
+            "request": "launch",
+            "mainClass": "competec.aula3_arranjos_gabarito.Desafio2TresArranjosGabarito",
+            "projectName": "competec2"
+        },
+        {
+            "type": "java",
+            "name": "Desafio3EntradaSaidaArranjosGabarito",
+            "request": "launch",
+            "mainClass": "competec.aula3_arranjos_gabarito.Desafio3EntradaSaidaArranjosGabarito",
+            "projectName": "competec2"
+        }
+    ]
+}
